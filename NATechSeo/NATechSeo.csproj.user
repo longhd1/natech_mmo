@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="NATech\frmAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NATech\frmChangeMAC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NATech\frmHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NATech\frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NATech\frmPrice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NATech\frmThanhToan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NATech\frmAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NATech\frmChangeMAC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NATech\frmHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NATech\frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NATech\frmPrice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NATech\frmThanhToan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

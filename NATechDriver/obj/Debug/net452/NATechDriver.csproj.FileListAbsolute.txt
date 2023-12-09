@@ -1,0 +1,12 @@
+C:\Users\PC\Desktop\Source\GenSource\NATechSeo\bin\Debug\net452\NATechDriver.dll
+C:\Users\PC\Desktop\Source\GenSource\NATechSeo\bin\Debug\net452\NATechDriver.pdb
+C:\Users\PC\Desktop\Source\GenSource\NATechDriver\obj\Debug\net452\NATechDriver.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Source\GenSource\NATechDriver\obj\Debug\net452\NATechDriver.frmCreateProfile.resources
+C:\Users\PC\Desktop\Source\GenSource\NATechDriver\obj\Debug\net452\NATechDriver.frmCreateProfileEmails.resources
+C:\Users\PC\Desktop\Source\GenSource\NATechDriver\obj\Debug\net452\NATechDriver.Properties.Resources.resources
+C:\Users\PC\Desktop\Source\GenSource\NATechDriver\obj\Debug\net452\NATechDriver.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Source\GenSource\NATechDriver\obj\Debug\net452\NATechDriver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Source\GenSource\NATechDriver\obj\Debug\net452\NATechDriver.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Source\GenSource\NATechDriver\obj\Debug\net452\NATechDriver.csproj.CopyComplete
+C:\Users\PC\Desktop\Source\GenSource\NATechDriver\obj\Debug\net452\NATechDriver.dll
+C:\Users\PC\Desktop\Source\GenSource\NATechDriver\obj\Debug\net452\NATechDriver.pdb

@@ -1,0 +1,48 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NATechSeo", "NATechSeo\NATechSeo.csproj", "{27FC2B5F-BAE1-48D8-ABAF-D7BCC46A19B3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NATechProxy", "NATechProxy\NATechProxy.csproj", "{65D8F3EB-EEBE-477D-A114-BD685A6B4AC4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NATechDriver", "NATechDriver\NATechDriver.csproj", "{C0092AE4-0489-443B-A56D-E4CF66142313}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NATechApi", "NATechApi\NATechApi.csproj", "{2FD50778-FC0E-4519-A762-68329D071751}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoUpdate", "AutoUpdate\AutoUpdate.csproj", "{BB418785-BF8A-4926-B0D7-1E6F8DA60D97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AnyCPU = Debug|AnyCPU
+		Release|AnyCPU = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27FC2B5F-BAE1-48D8-ABAF-D7BCC46A19B3}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{27FC2B5F-BAE1-48D8-ABAF-D7BCC46A19B3}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{27FC2B5F-BAE1-48D8-ABAF-D7BCC46A19B3}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{27FC2B5F-BAE1-48D8-ABAF-D7BCC46A19B3}.Release|AnyCPU.Build.0 = Release|AnyCPU
+		{65D8F3EB-EEBE-477D-A114-BD685A6B4AC4}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{65D8F3EB-EEBE-477D-A114-BD685A6B4AC4}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{65D8F3EB-EEBE-477D-A114-BD685A6B4AC4}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{65D8F3EB-EEBE-477D-A114-BD685A6B4AC4}.Release|AnyCPU.Build.0 = Release|AnyCPU
+		{C0092AE4-0489-443B-A56D-E4CF66142313}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{C0092AE4-0489-443B-A56D-E4CF66142313}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{C0092AE4-0489-443B-A56D-E4CF66142313}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{C0092AE4-0489-443B-A56D-E4CF66142313}.Release|AnyCPU.Build.0 = Release|AnyCPU
+		{2FD50778-FC0E-4519-A762-68329D071751}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{2FD50778-FC0E-4519-A762-68329D071751}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{2FD50778-FC0E-4519-A762-68329D071751}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{2FD50778-FC0E-4519-A762-68329D071751}.Release|AnyCPU.Build.0 = Release|AnyCPU
+		{BB418785-BF8A-4926-B0D7-1E6F8DA60D97}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{BB418785-BF8A-4926-B0D7-1E6F8DA60D97}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{BB418785-BF8A-4926-B0D7-1E6F8DA60D97}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{BB418785-BF8A-4926-B0D7-1E6F8DA60D97}.Release|AnyCPU.Build.0 = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17166B84-39A5-4E89-A844-72D239234691}
+	EndGlobalSection
+EndGlobal

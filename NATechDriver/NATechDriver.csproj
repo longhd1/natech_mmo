@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <AssemblyName>NATechDriver</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <UseWindowsForms>True</UseWindowsForms>
+    <TargetFramework>net452</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>11.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RootNamespace />
+    <BaseOutputPath>C:\Users\PC\Desktop\Source\GenSource\NATechSeo\bin</BaseOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="NATechDriver.dll.licenses" />
+    <EmbeddedResource Include="NATechDriver.dll.licenses" LogicalName="NATechDriver.dll.licenses" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.v17.1">
+      <HintPath>..\NATechSeo\bin\Debug\net452\DevExpress.Data.v17.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Utils.v17.1">
+      <HintPath>..\NATechSeo\bin\Debug\net452\DevExpress.Utils.v17.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraEditors.v17.1">
+      <HintPath>..\NATechSeo\bin\Debug\net452\DevExpress.XtraEditors.v17.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraGrid.v17.1">
+      <HintPath>..\NATechSeo\bin\Debug\net452\DevExpress.XtraGrid.v17.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraLayout.v17.1">
+      <HintPath>..\NATechSeo\bin\Debug\net452\DevExpress.XtraLayout.v17.1.dll</HintPath>
+    </Reference>
+    <Reference Include="NATechApi">
+      <HintPath>..\NATechSeo\bin\Debug\net452\NATechApi.dll</HintPath>
+    </Reference>
+    <Reference Include="NATechProxy">
+      <HintPath>..\NATechSeo\bin\Debug\net452\NATechProxy.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="WebDriver">
+      <HintPath>..\..\NATechSEO\WebDriver.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\..\NATechSEO\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+  </ItemGroup>
+</Project>

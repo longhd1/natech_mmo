@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\Source\GenSource\NATechSeo\bin\Debug\net452\NATechApi.dll
+C:\Users\PC\Desktop\Source\GenSource\NATechSeo\bin\Debug\net452\NATechApi.pdb
+C:\Users\PC\Desktop\Source\GenSource\NATechApi\obj\Debug\net452\NATechApi.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Source\GenSource\NATechApi\obj\Debug\net452\NATechApi.frmActiveAccount.resources
+C:\Users\PC\Desktop\Source\GenSource\NATechApi\obj\Debug\net452\NATechApi.frmChangePassword.resources
+C:\Users\PC\Desktop\Source\GenSource\NATechApi\obj\Debug\net452\NATechApi.frmLogin.resources
+C:\Users\PC\Desktop\Source\GenSource\NATechApi\obj\Debug\net452\NATechApi.frmLossPassword.resources
+C:\Users\PC\Desktop\Source\GenSource\NATechApi\obj\Debug\net452\NATechApi.frmManualUpdate.resources
+C:\Users\PC\Desktop\Source\GenSource\NATechApi\obj\Debug\net452\NATechApi.frmRegister.resources
+C:\Users\PC\Desktop\Source\GenSource\NATechApi\obj\Debug\net452\NATechApi.frmUpdate.resources
+C:\Users\PC\Desktop\Source\GenSource\NATechApi\obj\Debug\net452\NATechApi.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Source\GenSource\NATechApi\obj\Debug\net452\NATechApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Source\GenSource\NATechApi\obj\Debug\net452\NATechApi.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Source\GenSource\NATechApi\obj\Debug\net452\NATechApi.csproj.CopyComplete
+C:\Users\PC\Desktop\Source\GenSource\NATechApi\obj\Debug\net452\NATechApi.dll
+C:\Users\PC\Desktop\Source\GenSource\NATechApi\obj\Debug\net452\NATechApi.pdb

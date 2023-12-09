@@ -1,0 +1,71 @@
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <AssemblyName>NATechSeo</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <OutputType>WinExe</OutputType>
+    <UseWindowsForms>True</UseWindowsForms>
+    <TargetFramework>net452</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>11.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>app.ico</ApplicationIcon>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <RootNamespace />
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="NATechSeo.exe.licenses" />
+    <EmbeddedResource Include="NATechSeo.exe.licenses" LogicalName="NATechSeo.exe.licenses" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="AdsDll">
+      <HintPath>bin\Debug\net452\AdsDll.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.BonusSkins.v17.1">
+      <HintPath>bin\Debug\net452\DevExpress.BonusSkins.v17.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Data.v17.1">
+      <HintPath>bin\Debug\net452\DevExpress.Data.v17.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Utils.v17.1">
+      <HintPath>bin\Debug\net452\DevExpress.Utils.v17.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraBars.v17.1">
+      <HintPath>bin\Debug\net452\DevExpress.XtraBars.v17.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraEditors.v17.1">
+      <HintPath>bin\Debug\net452\DevExpress.XtraEditors.v17.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraGrid.v17.1">
+      <HintPath>bin\Debug\net452\DevExpress.XtraGrid.v17.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraLayout.v17.1">
+      <HintPath>bin\Debug\net452\DevExpress.XtraLayout.v17.1.dll</HintPath>
+    </Reference>
+    <Reference Include="Excel">
+      <HintPath>bin\Debug\net452\Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="NATechApi">
+      <HintPath>bin\Debug\net452\NATechApi.dll</HintPath>
+    </Reference>
+    <Reference Include="NATechDriver">
+      <HintPath>bin\Debug\net452\NATechDriver.dll</HintPath>
+    </Reference>
+    <Reference Include="NATechProxy">
+      <HintPath>bin\Debug\net452\NATechProxy.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>bin\Debug\net452\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="RestSharp">
+      <HintPath>bin\Debug\net452\RestSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="WebDriver">
+      <HintPath>bin\Debug\net452\WebDriver.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

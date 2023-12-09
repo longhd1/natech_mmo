@@ -1,0 +1,8 @@
+C:\Users\PC\Desktop\Source\GenSource\NATechSeo\bin\Debug\net452\NATechProxy.dll
+C:\Users\PC\Desktop\Source\GenSource\NATechSeo\bin\Debug\net452\NATechProxy.pdb
+C:\Users\PC\Desktop\Source\GenSource\NATechProxy\obj\Debug\net452\NATechProxy.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Source\GenSource\NATechProxy\obj\Debug\net452\NATechProxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Source\GenSource\NATechProxy\obj\Debug\net452\NATechProxy.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Source\GenSource\NATechProxy\obj\Debug\net452\NATechProxy.csproj.CopyComplete
+C:\Users\PC\Desktop\Source\GenSource\NATechProxy\obj\Debug\net452\NATechProxy.dll
+C:\Users\PC\Desktop\Source\GenSource\NATechProxy\obj\Debug\net452\NATechProxy.pdb
