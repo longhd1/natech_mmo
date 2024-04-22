@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zLOe5CAR6bJkUnEjcTGxd1amUgV5HZtOWaZ8jvUpxhP5Zui8jz9fxIFXlgjttQ+2HoFZhud1OlcEFjamc8Cggw==",
+  "dgSpecHash": "1BuAt6KK2kuLWeBSy29S1OSJ2pEzcFwhjNiI1aNBzJQ55ZDscsDE+Z3HWY6kwWxoggDAaI9ocqK++Wf0mQNwkA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Desktop\\Source\\GenSource\\NATechApi\\NATechApi.csproj",
+  "projectFilePath": "E:\\SourceCode\\GitSource\\natech_mmo\\NATechApi\\NATechApi.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

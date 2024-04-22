@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j3Jj8fWIMwan79WsTTk+aHHMnvfzLcFM0LaD+4UhZcgrd3e7esvDv9pgle89Yy4Ck6wsVeOmeZHacA9lJpVCag==",
+  "dgSpecHash": "miXarFS/oUgO4GLs3v/cSpPLc8PSIekGIEOPo43z0Chl1LG5P42qCGssQDjqFUF6KnXkpTvUWCgcxxH9f73Fsw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Desktop\\Source\\GenSource\\AutoUpdate\\AutoUpdate.csproj",
+  "projectFilePath": "E:\\SourceCode\\GitSource\\natech_mmo\\AutoUpdate\\AutoUpdate.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -239,6 +239,10 @@ public class NATechDriver : ChromeDriver
 				DirectoryCopy(ProfileDefaultPath, text);
 				File.WriteAllText(text + "\\Default\\Preferences", contents);
 			}
+			else
+			{
+                DirectoryCopy(ProfileDefaultPath, text);
+            }
 		}
 		catch (Exception ex)
 		{

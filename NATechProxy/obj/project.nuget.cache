@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5iRTf0KKgbGNPEl8LhWB+uZrufZx/uToFjGqRFzvo2lAvNApGGjd40IYpx5qbp+fF+od0zZFjpLpVCJltpy8iA==",
+  "dgSpecHash": "zsUQZNHSCVaXDfk8IYk17OIQPG9UdIW39kuDGi24KYqgBNGl/dCwJpK0Z0YWwzdKbIspwgJKae56g5SIoVw5RA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Desktop\\Source\\GenSource\\NATechProxy\\NATechProxy.csproj",
+  "projectFilePath": "E:\\SourceCode\\GitSource\\natech_mmo\\NATechProxy\\NATechProxy.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

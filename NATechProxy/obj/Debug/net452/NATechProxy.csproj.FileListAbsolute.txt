@@ -6,3 +6,11 @@ C:\Users\PC\Desktop\Source\GenSource\NATechProxy\obj\Debug\net452\NATechProxy.cs
 C:\Users\PC\Desktop\Source\GenSource\NATechProxy\obj\Debug\net452\NATechProxy.csproj.CopyComplete
 C:\Users\PC\Desktop\Source\GenSource\NATechProxy\obj\Debug\net452\NATechProxy.dll
 C:\Users\PC\Desktop\Source\GenSource\NATechProxy\obj\Debug\net452\NATechProxy.pdb
+E:\SourceCode\GitSource\natech_mmo\NATechProxy\obj\Debug\net452\NATechProxy.csproj.AssemblyReference.cache
+E:\SourceCode\GitSource\natech_mmo\NATechProxy\obj\Debug\net452\NATechProxy.GeneratedMSBuildEditorConfig.editorconfig
+E:\SourceCode\GitSource\natech_mmo\NATechProxy\obj\Debug\net452\NATechProxy.csproj.CoreCompileInputs.cache
+E:\SourceCode\GitSource\natech_mmo\NATechProxy\obj\Debug\net452\NATechProxy.csproj.CopyComplete
+E:\SourceCode\GitSource\natech_mmo\NATechProxy\obj\Debug\net452\NATechProxy.dll
+E:\SourceCode\GitSource\natech_mmo\NATechProxy\obj\Debug\net452\NATechProxy.pdb
+E:\SourceCode\GitSource\natech_mmo\NATechSeo\bin\Debug\net452\NATechProxy.dll
+E:\SourceCode\GitSource\natech_mmo\NATechSeo\bin\Debug\net452\NATechProxy.pdb

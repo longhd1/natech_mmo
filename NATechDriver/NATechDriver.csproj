@@ -12,7 +12,7 @@
   </PropertyGroup>
   <PropertyGroup>
     <RootNamespace />
-    <BaseOutputPath>C:\Users\PC\Desktop\Source\GenSource\NATechSeo\bin</BaseOutputPath>
+    <BaseOutputPath>E:\SourceCode\GitSource\natech_mmo\NATechSeo\bin</BaseOutputPath>
   </PropertyGroup>
   <ItemGroup>
     <None Remove="NATechDriver.dll.licenses" />

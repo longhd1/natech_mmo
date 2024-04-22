@@ -296,8 +296,8 @@ public class frmCreateProfileEmails : Form
 			{
 				Thread.Sleep(DelayPass * 1000);
 			}
-			IWebElement webElement3 = driver.FindElement(By.XPath("//*[@id=\"password\"]/div[1]/div/div[1]/input"));
-			webElement3.SendKeys(email.Password);
+			IWebElement webElement3 = driver.FindElement(By.CssSelector("input[autocomplete=\"current-password\"]"));//"id("password")/DIV[1]/DIV[1]/DIV[1]/INPUT[1]"
+            webElement3.SendKeys(email.Password);
 			IWebElement webElement4 = driver.FindElement(By.Id("passwordNext"));
 			webElement4.Click();
 			Thread.Sleep(3000);
@@ -338,8 +338,8 @@ public class frmCreateProfileEmails : Form
 				}
 				try
 				{
-					driver.FindElement(By.Name("knowledgePreregisteredEmailResponse"))?.SendKeys(email.RecoveryEmail);
-					driver.FindElement(By.XPath("/html/body/div[1]/div[1]/div[2]/div/div[2]/div/div/div[2]/div/div[2]/div/div[1]/div/div/button"))?.Click();
+					driver.FindElement(By.Id("knowledge-preregistered-email-response"))?.SendKeys(email.RecoveryEmail);
+					driver.FindElement(By.XPath("//button[contains(text(),'Tiếp theo')]"))?.Click();
 					Thread.Sleep(1000);
 				}
 				catch (Exception)
@@ -358,7 +358,7 @@ public class frmCreateProfileEmails : Form
 			{
 			}
 		}
-		catch (Exception)
+		catch (Exception ex)
 		{
 			GmailLoginStatus = 0;
 		}

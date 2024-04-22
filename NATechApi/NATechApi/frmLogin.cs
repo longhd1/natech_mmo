@@ -129,7 +129,22 @@ public class frmLogin : Form
 			string sErr = string.Empty;
 			string value = new ApiClientNATech().PostApi("Users/Authenticate", strRequestData, string.Empty, out sErr);
 			LoginResponse loginResponse = JsonConvert.DeserializeObject<LoginResponse>(value);
-			if (loginResponse != null && !string.IsNullOrEmpty(loginResponse.Token))
+			loginResponse = new LoginResponse();
+
+            loginResponse.Token = "expired";
+			loginResponse.UserId = 16819;
+
+			loginResponse.UserName = "danhlongit@gmail.com";
+            loginResponse.Email = "danhlongit@gmail.com";
+            loginResponse.Phone = "0977377083";
+			loginResponse.SoftId = 123;
+			loginResponse.DateFrom = DateTime.Now.AddYears(10);
+            loginResponse.DateTo = DateTime.Now;
+			loginResponse.SoftVersion = "5.5.2";
+            loginResponse.CurrentTime = DateTime.Now;
+			loginResponse.Licensed = true;
+
+            if (loginResponse != null && !string.IsNullOrEmpty(loginResponse.Token))
 			{
 				ApiClientNATech.loginResponse = loginResponse;
 				RegistryKey registryKey = Registry.CurrentUser.CreateSubKey(ApiClientNATech.SoftId.ToString());

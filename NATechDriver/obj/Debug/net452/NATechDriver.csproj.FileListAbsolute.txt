@@ -10,3 +10,15 @@ C:\Users\PC\Desktop\Source\GenSource\NATechDriver\obj\Debug\net452\NATechDriver.
 C:\Users\PC\Desktop\Source\GenSource\NATechDriver\obj\Debug\net452\NATechDriver.csproj.CopyComplete
 C:\Users\PC\Desktop\Source\GenSource\NATechDriver\obj\Debug\net452\NATechDriver.dll
 C:\Users\PC\Desktop\Source\GenSource\NATechDriver\obj\Debug\net452\NATechDriver.pdb
+E:\SourceCode\GitSource\natech_mmo\NATechDriver\obj\Debug\net452\NATechDriver.csproj.AssemblyReference.cache
+E:\SourceCode\GitSource\natech_mmo\NATechDriver\obj\Debug\net452\NATechDriver.frmCreateProfile.resources
+E:\SourceCode\GitSource\natech_mmo\NATechDriver\obj\Debug\net452\NATechDriver.frmCreateProfileEmails.resources
+E:\SourceCode\GitSource\natech_mmo\NATechDriver\obj\Debug\net452\NATechDriver.Properties.Resources.resources
+E:\SourceCode\GitSource\natech_mmo\NATechDriver\obj\Debug\net452\NATechDriver.csproj.GenerateResource.cache
+E:\SourceCode\GitSource\natech_mmo\NATechDriver\obj\Debug\net452\NATechDriver.GeneratedMSBuildEditorConfig.editorconfig
+E:\SourceCode\GitSource\natech_mmo\NATechDriver\obj\Debug\net452\NATechDriver.csproj.CoreCompileInputs.cache
+E:\SourceCode\GitSource\natech_mmo\NATechDriver\obj\Debug\net452\NATechDriver.csproj.CopyComplete
+E:\SourceCode\GitSource\natech_mmo\NATechDriver\obj\Debug\net452\NATechDriver.dll
+E:\SourceCode\GitSource\natech_mmo\NATechDriver\obj\Debug\net452\NATechDriver.pdb
+E:\SourceCode\GitSource\natech_mmo\NATechSeo\bin\Debug\net452\NATechDriver.dll
+E:\SourceCode\GitSource\natech_mmo\NATechSeo\bin\Debug\net452\NATechDriver.pdb
